@@ -12,7 +12,7 @@ local Modes = {
 	[3] = {
 		ModName = "Small Extreme mode",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/LF0KaJK6/raw'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://105008666118156"
 	},
 	[4] = {
 		ModName = "Confusion mode",
