@@ -17,12 +17,12 @@ local Modes = {
 	[4] = {
 		ModName = "Confusion mode",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/9kNzOoCH/raw'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://82501387362866"
 	},
 	[5] = {
 		ModName = "Threat mode",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/HLvpvnAO/raw'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://117529511355145"
 	},
 	[6] = {
 		ModName = "Stalker mode",
