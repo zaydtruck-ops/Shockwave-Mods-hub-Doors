@@ -5,8 +5,8 @@ local Items = {
 		Image = "rbxassetid://"
 	},
   [2] = {
-		ModName = "A-90 plushie",
-		ModScript = "loadstring(game:HttpGet('https://pastefy.app/QwhWkude/raw'))()",
+		ModName = "Rush plushie",
+		ModScript = "loadstring(game:HttpGet('https://pastefy.app/9cM72IkY/raw'))()",
 		Image = "rbxassetid://"
 	},
   [3] = {
@@ -15,13 +15,8 @@ local Items = {
 		Image = "rbxassetid://"
 	},
   [4] = {
-		ModName = "Rush plushie",
+		ModName = "Rebound plushie",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/WbM7Pf0V/raw'))()",
-		Image = "rbxassetid://"
-	},
-  [5] = {
-		ModName = "Rush plushie",
-		ModScript = "loadstring(game:HttpGet('https://pastefy.app/9cM72IkY/raw'))()",
 		Image = "rbxassetid://"
 	}
 }
