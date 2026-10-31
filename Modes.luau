@@ -98,6 +98,56 @@ local Modes = {
 		ModName = "Chaos mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Tunder8401/Doors-Modes/refs/heads/main/Chaos%20Mode'))()",
 		Image = "rbxassetid://"
+	},
+	[21] = {
+		ModName = "Hardcore mode Retake",
+		ModScript = "loadstring(game:HttpGet('https://github.com/tranthienhao872-ship-it/Hardcore-Retake/raw/refs/heads/main/Plus%20again'))()",
+		Image = "rbxassetid://"
+	},
+	[22] = {
+		ModName = "Hollow mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/CastiSeek/Doors-Hollow-Mode/refs/heads/main/main.lua'))()",
+		Image = "rbxassetid://"
+	},
+	[23] = {
+		ModName = "Mayhem mode fixed",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/localplayerr/Doors-stuff/refs/heads/main/Mayhem%20mode%20recreate/Code'))()",
+		Image = "rbxassetid://"
+	},
+	[24] = {
+		ModName = "Particulate mode",
+		ModScript = "loadstring(game:HttpGet('https://rawscripts.net/raw/DOORS-Particulate-Mode-241450'))()",
+		Image = "rbxassetid://"
+	},
+	[25] = {
+		ModName = "Snuffer mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Anctarus7105/My-Modes/refs/heads/main/SnufferV1.lua'))()",
+		Image = "rbxassetid://"
+	},
+	[26] = {
+		ModName = "Ultra hard mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Junxd-03/UltraHardModeUpdate/refs/heads/main/UltraHardMode.lua'))()",
+		Image = "rbxassetid://"
+	},
+	[27] = {
+		ModName = "Meme mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/chubeteliet-cpu/meme-mode-m-p/refs/heads/main/Meme-mode-ma-hoa'))()",
+		Image = "rbxassetid://"
+	},
+	[28] = {
+		ModName = "Laver mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/J63633S/Laver-mode/refs/heads/main/Main%20script'))()",
+		Image = "rbxassetid://"
+	},
+	[29] = {
+		ModName = "Mental mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/TheLastOne5778/Read/refs/heads/main/Mental%20Mode'))()",
+		Image = "rbxassetid://"
+	},
+	[30] = {
+		ModName = "Terror mode",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Teilsthebfdifan/Modhub-assets/refs/heads/main/TerrorModeOBF.lua'))()",
+		Image = "rbxassetid://"
 	}
 }
 
