@@ -2,7 +2,7 @@ local Modes = {
 	[1] = {
 		ModName = "Madness mode v1.2",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/VOny4364/raw'))()",
-		Image = "rbxassetid://83335766469899"
+		Image = "rbxassetid://122389725935341"
 	},
 	[2] = {
 		ModName = "Harder mode",
