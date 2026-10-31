@@ -16,7 +16,7 @@ local Modes = {
 	},
 	[4] = {
 		ModName = "Confusion mode",
-		ModScript = "loadstring(game:HttpGet('https://pastefy.app/epQFqBW1/raw'))()",
+		ModScript = "loadstring(game:HttpGet('https://pastefy.app/9kNzOoCH/raw'))()",
 		Image = "rbxassetid://"
 	},
 	[5] = {
