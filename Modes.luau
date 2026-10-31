@@ -2,7 +2,7 @@ local Modes = {
 	[1] = {
 		ModName = "Madness mode v1.2",
 		ModScript = "",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://8508980527"
 	},
 	[2] = {
 		ModName = "Harder mode",
