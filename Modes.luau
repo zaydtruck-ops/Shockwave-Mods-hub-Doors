@@ -47,17 +47,17 @@ local Modes = {
 	[10] = {
 		ModName = "Nightmare mode",
 		ModScript = "loadstring(game:HttpGet('https://pastebin.com/raw/YbkbZ3fp'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://85433940509967"
 	},
 	[11] = {
 		ModName = "Cazy mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/realbluedeptrainhat/Cazy-mode/refs/heads/main/cazy-mode%20.txt', true))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://103354197112646"
 	},
 	[12] = {
 		ModName = "Darkness mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/chubeteliet-cpu/Darkness-mode/refs/heads/main/Darkness%20mode%20rework', true))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://100315481841669"
 	},
 	[13] = {
 		ModName = "Null mode",
@@ -67,7 +67,7 @@ local Modes = {
 	[14] = {
 		ModName = "Draco mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/idkman60093/Doors-Modes/refs/heads/main/Draco%20Mode%20(Fully%20Completed)'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://116016204765288"
 	},
 	[15] = {
 		ModName = "Hardcore mode",
