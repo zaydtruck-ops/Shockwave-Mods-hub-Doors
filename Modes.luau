@@ -71,8 +71,8 @@ local Modes = {
 	},
 	[15] = {
 		ModName = "Hardcore mode",
-		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Junbbinopro/Hardcore-mode/refs/heads/main/hardcore.lua'))()",
-		Image = "rbxassetid://"
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/chubeteliet-cpu/Doors-hardcore-/refs/heads/main/Doors%20hardcore'))()",
+		Image = "rbxassetid://89775197137446"
 	},
 	[16] = {
 		ModName = "Wer mode",
