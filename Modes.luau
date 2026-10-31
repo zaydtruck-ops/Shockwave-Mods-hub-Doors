@@ -75,27 +75,27 @@ local Modes = {
 		Image = "rbxassetid://"
 	},
 	[16] = {
-		ModName = "Wer mode"
+		ModName = "Wer mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/rrealblueyt-oss/Wermod/refs/heads/main/Werrrmode.Lua'))()",
 		Image = "rbxassetid://"
 	},
 	[17] = {
-		ModName = "Void mode"
+		ModName = "Void mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/minh-scripter/doors_void/refs/heads/main/Doors_Void_Mode.txt'))()",
 		Image = "rbxassetid://"
 	},
 	[18] = {
-		ModName = "Devil mode"
+		ModName = "Devil mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/datdoors/Devilmodefixed.main/refs/heads/main/Devilmodefixed'))()",
 		Image = "rbxassetid://"
 	},
 	[19] = {
-		ModName = "Baller mode"
+		ModName = "Baller mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Junbbinopro/Baller-mode/refs/heads/main/Mode'))()",
 		Image = "rbxassetid://"
 	},
 	[20] = {
-		ModName = "Chaos mode"
+		ModName = "Chaos mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/Tunder8401/Doors-Modes/refs/heads/main/Chaos%20Mode'))()",
 		Image = "rbxassetid://"
 	}
