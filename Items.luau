@@ -25,3 +25,5 @@ local Items = {
 		Image = "rbxassetid://"
 	}
 }
+
+Return Items
