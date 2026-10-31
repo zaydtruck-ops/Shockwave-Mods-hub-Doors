@@ -1,6 +1,6 @@
 local Modes = {
 	[1] = {
-		ModName = "Madness mode",
+		ModName = "Madness mode v1.2",
 		ModScript = "",
 		Image = "rbxassetid://"
 	},
@@ -32,6 +32,16 @@ local Modes = {
 	[7] = {
 		ModName = "Ice mode",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/vpHzXSDy/raw'))()",
+		Image = "rbxassetid://"
+	},
+	[8] = {
+		ModName = "Broken mode v1.8",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/idkman60093/Doors-Modes/refs/heads/main/Broken-Mode-V1.8-Fixed-Version'))()",
+		Image = "rbxassetid://"
+	},
+	[9] = {
+		ModName = "Fragmented mode v5",
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/talales/Nhankg82683/refs/heads/main/the%20fragments%20v5'))()",
 		Image = "rbxassetid://"
 	}
 }
