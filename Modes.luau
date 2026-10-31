@@ -87,7 +87,7 @@ local Modes = {
 	[18] = {
 		ModName = "Devil mode",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/datdoors/Devilmodefixed.main/refs/heads/main/Devilmodefixed'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://104765757668210"
 	},
 	[19] = {
 		ModName = "Baller mode",
