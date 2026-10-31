@@ -11,8 +11,9 @@ local Entities = {
 	},
 	[3] = {
 		ModName = "Storm",
-		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/zaydtruck-ops/Doors-Radical-mode/refs/heads/main/Storm'))()"
+		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/zaydtruck-ops/Doors-Radical-mode/refs/heads/main/Storm'))()",
 		Image = "rbxassetid://140106321397677"
+	}
 }
 
 return Entities
