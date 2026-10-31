@@ -7,7 +7,7 @@ local Modes = {
 	[2] = {
 		ModName = "Harder mode",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/kLRWKtZN/raw'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://103502845251566"
 	},
 	[3] = {
 		ModName = "Small Extreme mode",
@@ -32,12 +32,12 @@ local Modes = {
 	[7] = {
 		ModName = "Ice mode",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/vpHzXSDy/raw'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://105191441539964"
 	},
 	[8] = {
 		ModName = "Broken mode v1.8",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/idkman60093/Doors-Modes/refs/heads/main/Broken-Mode-V1.8-Fixed-Version'))()",
-		Image = "rbxassetid://"
+		Image = "rbxassetid://92413759089166"
 	},
 	[9] = {
 		ModName = "Fragmented mode v5",
