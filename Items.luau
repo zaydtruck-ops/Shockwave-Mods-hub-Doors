@@ -18,7 +18,7 @@ local Items = {
 		ModName = "Rush plushie",
 		ModScript = "loadstring(game:HttpGet('https://raw.githubusercontent.com/eliazbp92-collab/Plushie1/refs/heads/main/Rush'))()",
 		Image = "rbxassetid://"
-	}
+	},
   [5] = {
 		ModName = "Rebound plushie",
 		ModScript = "loadstring(game:HttpGet('https://pastefy.app/WbM7Pf0V/raw'))()",
