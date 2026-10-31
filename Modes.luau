@@ -4,3 +4,5 @@ local Modes = {
 		Image = "rbxassetid://"
 	}
 }
+
+return Modes
